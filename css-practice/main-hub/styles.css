@@ -29,7 +29,7 @@ button{
     font-family: cursive;
     transition-duration: 0.4s;
     width: 100px;
-    font font-size: 5px;
+     font-size: 5px;
 }
 
 .button:hover {
